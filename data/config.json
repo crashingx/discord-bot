@@ -1,0 +1,11 @@
+{
+    "discord": {
+        "token": "",
+        "id": "",
+        "invite": ""
+    },
+    "admins": [
+        ""
+    ],
+    "debug": true
+}
